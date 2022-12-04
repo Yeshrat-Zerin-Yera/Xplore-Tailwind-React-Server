@@ -15,13 +15,7 @@
         },
         "title": "Microsoft Excel",
         "thumbnail_url": "https://coursepedia.ng/wp-content/uploads/2022/04/Microsoft-Excel-%E2%80%93-Excel-from-Beginner-to-Advanced-870x440.jpg",
-        "introduction": "Microsoft Excel is a software program produced by Microsoft that allows users to organize, format and calculate data with formulas using a spreadsheet system.
-
-        It features calculation or computation capabilities, graphing tools, pivot tables, and a macro programming language called Visual Basic for Applications (VBA).
-       
-       This software is part of the Microsoft Office suite and is compatible with other applications in the Office suite.
-       
-       Do you want to learn how to work with excel even if you don’t have any prior experience? Then this is the right course for you as you will learn how to work effectively with Microsoft Excel."
+        "introduction": "Microsoft Excel is a software program produced by Microsoft that allows users to organize, format and calculate data with formulas using a spreadsheet system. It features calculation or computation capabilities, graphing tools, pivot tables, and a macro programming language called Visual Basic for Applications (VBA). This software is part of the Microsoft Office suite and is compatible with other applications in the Office suite. Do you want to learn how to work with excel even if you don’t have any prior experience? Then this is the right course for you as you will learn how to work effectively with Microsoft Excel."
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
@@ -49,7 +43,7 @@
             "enrolled": 1800,
             "total_view": 1200,
             "study_mode": "Online",
-            "price": 0000
+            "price": 0
         },
         "rating": {
             "number": 4.8,
@@ -57,9 +51,7 @@
         },
         "title": "Strategic Business Growth",
         "thumbnail_url": "https://coursepedia.ng/wp-content/uploads/2019/07/STRATEGIC-BUSINESS-GROWTH-870x440.jpg",
-        "introduction": "Businesses which have a fundamental flaw will typically only last until the founders’ investment is used up. Others with major weak spots may be able to go on for a long time but won’t be able to move beyond being a small business and eventually the weak spot may be the cause of their failure if they hit a period of bad luck.
-
-        Even relatively large businesses can come unstuck if they fail to maintain the essential pillars of survival. An aggressive competitor, a change in regulations, a man- made or natural disaster or a personal crisis can all have a disruptive effect on the business and it may be sufficient to send it into a downward spiral."
+        "introduction": "Businesses which have a fundamental flaw will typically only last until the founders’ investment is used up. Others with major weak spots may be able to go on for a long time but won’t be able to move beyond being a small business and eventually the weak spot may be the cause of their failure if they hit a period of bad luck. Even relatively large businesses can come unstuck if they fail to maintain the essential pillars of survival. An aggressive competitor, a change in regulations, a man- made or natural disaster or a personal crisis can all have a disruptive effect on the business and it may be sufficient to send it into a downward spiral."
     },
     {
         "_id": "f69a695f037cd9484cecaea37ca71012",
@@ -77,9 +69,7 @@
         },
         "title": "Presentation Skills",
         "thumbnail_url": "https://coursepedia.ng/wp-content/uploads/2019/07/Creative-Confidence-870x440.jpg",
-        "introduction": "Presentation skills are the skills you need in delivering effective and engaging presentations to a variety of audiences. These skills cover a variety of areas such as the structure of your presentation, the design of your slides, the tone of your voice and the body language you convey.
-
-        Presenting information clearly and effectively is a key skill in getting your message across. Today, presentation skills are required in almost every field, and most of us are required to give presentations on occasions."
+        "introduction": "Presentation skills are the skills you need in delivering effective and engaging presentations to a variety of audiences. These skills cover a variety of areas such as the structure of your presentation, the design of your slides, the tone of your voice and the body language you convey.Presenting information clearly and effectively is a key skill in getting your message across. Today, presentation skills are required in almost every field, and most of us are required to give presentations on occasions."
     },
     {
         "_id": "11468ed61aee84de492a8b04158a22f9",
@@ -89,7 +79,7 @@
             "enrolled": 1086,
             "total_view": 3400,
             "study_mode": "Online",
-            "price": 0000
+            "price": 0
         },
         "rating": {
             "number": 4.5,
@@ -115,13 +105,7 @@
         },
         "title": "Developing an Effective Business Model",
         "thumbnail_url": "https://coursepedia.ng/wp-content/uploads/2020/08/Developing-an-Effective-Business-Model-870x440.jpg",
-        "introduction": "To develop an effective business model for your company, draw a picture that establishes a structure so your employees can produce products or services for customers in a profitable way. A business model typically includes a description of your customers, how customers use your product, how you distribute your product and details about how you promote your business. The model also describes key operational tasks, staffing and other resource requirements as well as details about how business is conducted.
-
- 
-
-        A business model describes your business using visual images, typically on a single page, while a business plan describes your business in a lengthier document
-        
-        Understanding the problem you are solving for your customers is undoubtedly the biggest challenge you’ll face when you’re starting a business. Customers need to want what you are selling and your product needs to solve a real problem. But, ensuring that your product fits the needs of the market is only one part of starting a successful business. The other key ingredient is figuring out how you’re going to make money. This is where your business model comes into play."
+        "introduction": "To develop an effective business model for your company, draw a picture that establishes a structure so your employees can produce products or services for customers in a profitable way. A business model typically includes a description of your customers, how customers use your product, how you distribute your product and details about how you promote your business. The model also describes key operational tasks, staffing and other resource requirements as well as details about how business is conducted. A business model describes your business using visual images, typically on a single page, while a business plan describes your business in a lengthier document Understanding the problem you are solving for your customers is undoubtedly the biggest challenge you’ll face when you’re starting a business. Customers need to want what you are selling and your product needs to solve a real problem. But, ensuring that your product fits the needs of the market is only one part of starting a successful business. The other key ingredient is figuring out how you’re going to make money. This is where your business model comes into play."
     },
     {
         "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
@@ -157,9 +141,7 @@
         },
         "title": "Market Segmentation, Targeting and Positioning",
         "thumbnail_url": "https://coursepedia.ng/wp-content/uploads/2020/05/Market-Segmentation-Targeting-and-Positioning-870x440.jpg",
-        "introduction": "Philip Kotler, the grand dean of marketing textbooks, has suggested that if marketers can nail their target and position, all other aspects of a marketing campaign will fall into place. Target and position define whom we are trying to reach with our marketing campaign, and what message (or position) we will use to connect. The concepts of targeting and positioning are so critical to marketing success that we now dedicate an entire unit to them.
-
-        So, let’s now consider the concept of segmenting, targeting, and positioning (STP), known as the strategic marketing formula that helps marketers identify and segment their audience, target their market, and posture their products to cultivate their desired brand position."
+        "introduction": "Philip Kotler, the grand dean of marketing textbooks, has suggested that if marketers can nail their target and position, all other aspects of a marketing campaign will fall into place. Target and position define whom we are trying to reach with our marketing campaign, and what message (or position) we will use to connect. The concepts of targeting and positioning are so critical to marketing success that we now dedicate an entire unit to them. So, let’s now consider the concept of segmenting, targeting, and positioning (STP), known as the strategic marketing formula that helps marketers identify and segment their audience, target their market, and posture their products to cultivate their desired brand position."
     },
     {
         "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
@@ -169,7 +151,7 @@
             "enrolled": 6949,
             "total_view": 22701,
             "study_mode": "Online",
-            "price": 0000
+            "price": 0
         },
         "rating": {
             "number": 4.5,
@@ -177,15 +159,7 @@
         },
         "title": "Online Business Marketing Basics",
         "thumbnail_url": "https://coursepedia.ng/wp-content/uploads/2019/07/Online-business-marketing-1024x576-870x440.jpg",
-        "introduction": "Businesses with websites have to know how to reach and attract consumers online, and many of these businesses would rather pay someone to do their online marketing for them rather than deal with it themselves.
-
-        Starting an online marketing business involves promoting yourself first, then demonstrating to potential clients what you can do for them.
-        
-        In general, internet marketing includes any promotional strategies and tactics a business executes online to reach its target market.
-        
-        Today, most consumers search online for information before buying products or using services, so all businesses should have an online presence as part of their marketing mix.
-        
-        At the end of this course, students should be able to Online Business Marketing Basics that will help the take their business(s) to the level."
+        "introduction": "Businesses with websites have to know how to reach and attract consumers online, and many of these businesses would rather pay someone to do their online marketing for them rather than deal with it themselves. Starting an online marketing business involves promoting yourself first, then demonstrating to potential clients what you can do for them. In general, internet marketing includes any promotional strategies and tactics a business executes online to reach its target market. Today, most consumers search online for information before buying products or using services, so all businesses should have an online presence as part of their marketing mix. At the end of this course, students should be able to Online Business Marketing Basics that will help the take their business(s) to the level."
     },
     {
         "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
@@ -195,7 +169,7 @@
             "enrolled": 13519,
             "total_view": 49023,
             "study_mode": "Online",
-            "price": 0000
+            "price": 0
         },
         "rating": {
             "number": 4.5,
@@ -203,9 +177,7 @@
         },
         "title": "Building an Online Business",
         "thumbnail_url": "https://coursepedia.ng/wp-content/uploads/2019/06/BUILDING-AN-ONLINE-BUSINESS-870x440.jpg",
-        "introduction": "Building and growing an online business is easier said than done. With many people logging onto the Internet on a daily basis, a new breed of entrepreneurship has arisen. An online business offers a unique avenue to start and run a business worldwide with only Internet connection and a Laptop.
-
-        While a large percentage of people go to work every day, trading their time for money, this new breed of entrepreneurs are waking up to a world of financial potential that most people don’t know is possible. There is a proven sequence of steps you can follow to guarantee your success when you’re starting a small business online."
+        "introduction": "Building and growing an online business is easier said than done. With many people logging onto the Internet on a daily basis, a new breed of entrepreneurship has arisen. An online business offers a unique avenue to start and run a business worldwide with only Internet connection and a Laptop.  While a large percentage of people go to work every day, trading their time for money, this new breed of entrepreneurs are waking up to a world of financial potential that most people don’t know is possible. There is a proven sequence of steps you can follow to guarantee your success when you’re starting a small business online."
     },
     {
         "_id": "f06f8cc035b04bd1158e4198281915a3",
@@ -223,19 +195,7 @@
         },
         "title": "How to Start Online Business",
         "thumbnail_url": "https://coursepedia.ng/wp-content/uploads/2020/11/How-Start-Online-Business-870x440.jpg",
-        "introduction": "If you had told someone that you were working online some years back, they would probably just nod and think “What a waste of time! Can’t find a real job, yeah?”. As freelancing and blogging were starting off, people who actually jumped this wagon early on were perceived as lazy, gullible and maybe even fools to think this will turn into something viable. Those are now people who own thousands and thousands of dollars worth of businesses and brands.
-
- 
-
-        Today, when you say you are working online, people usually say “Oh, wow, good for you”. They are probably envious a bit as you must be making a ton of money sitting home and doing “nothing”.
-        
-         
-        
-        Yes, there are so many opinions about making money online, but if you are interested in exploring how you can become one of those lucky ones, this course will introduce you to multiple ways you can actually start making money on the internet.
-        
-         
-        
-        First things first. You need to realize that there are numerous ways to earn money. Not all of them are going to be the right fit for you. Nor will you like all of them. Also, the expected income can be quite diverse depending on the type of work you do and depending on how good you are at it."
+        "introduction": "If you had told someone that you were working online some years back, they would probably just nod and think “What a waste of time! Can’t find a real job, yeah?”. As freelancing and blogging were starting off, people who actually jumped this wagon early on were perceived as lazy, gullible and maybe even fools to think this will turn into something viable. Those are now people who own thousands and thousands of dollars worth of businesses and brands. Today, when you say you are working online, people usually say “Oh, wow, good for you”. They are probably envious a bit as you must be making a ton of money sitting home and doing “nothing”. Yes, there are so many opinions about making money online, but if you are interested in exploring how you can become one of those lucky ones, this course will introduce you to multiple ways you can actually start making money on the internet. First things first. You need to realize that there are numerous ways to earn money. Not all of them are going to be the right fit for you. Nor will you like all of them. Also, the expected income can be quite diverse depending on the type of work you do and depending on how good you are at it."
     },
     {
         "_id": "f06f8cc035b04bd1158e4198281915a4",
@@ -253,18 +213,7 @@
         },
         "title": "Online Marketing",
         "thumbnail_url": "https://coursepedia.ng/wp-content/uploads/2020/07/Online-Marketing-870x440.jpg",
-        "introduction": "In a world where every business has to fight for a share of the customers’ attention, marketing plays a huge role in boosting the number and interest of a company’s clientele. With the gradual increase in the number of small and large businesses that have sprung up in the last two decades, domestic and international markets have become saturated with suppliers, manufacturers and intermediaries, all striving to be the first ones to make it to the end of the chain.
-
-        Until only a few years ago, marketing itself was a highly criticized concept. For many, it was nothing more than a waste of resources that could be spent better if they were invested in manufacturing and building of sales force. This sales-oriented approach makes businesses push products and services into the market, rather than creating a pull that customers would not be able to resist.
-        
-        Marketing manages to do just that. With creatively designed strategies and concepts, the promotional campaigns of goods and services slowly began to play an important role in the overall mission of a business, achieving sales targets as well as creating much needed awareness. Thus, the role of physical marketing became clearer and more defined. Today, a successful business cannot even think about producing goods and services without having an authentic marketing strategy in place.
-        
-        Therefore, marketing is a business’s ammunition in front of a market that is full of choosy, precise and curious customers. It helps the business to answer questions, solve problems, present solutions and build long-term associations with the customers. A similar concept that has surfaced in the 21st century is that of online marketing.
-        
-        The move to a virtual world has been the result of the saturation of the market that has been mentioned here. With more and more businesses looking to attract customers, the internet became an efficient way to reach a large audience and to market one product or service on different vehicles and through different perspectives. Online marketing soon turned out to be a massive industry that today deals in billions of dollars’ worth of advertisements.
-        
-        However, just like many struggled to understand the importance and need for physical marketing strategies, adopting online marketing as a norm has not been easy for many oldschool businesses. Since they have been functioning just fine with a brick and mortar presence, for them, online marketing might seem quite unnecessary. How can this perception be changed? What is it that marketers can do to create and increase awareness about online marketing?
-        The answer is quite simple. Ask an average individual about online marketing; they may stop for a second or two to collect their thoughts before giving an answer. The concept of online marketing is not quite clear to people yet. While millions of businesses worldwide have jumped on the bandwagon of online marketing, not to mention the early adopters of this practice, a million others are still contemplating whether it is worth adopting."
+        "introduction": "In a world where every business has to fight for a share of the customers’ attention, marketing plays a huge role in boosting the number and interest of a company’s clientele. With the gradual increase in the number of small and large businesses that have sprung up in the last two decades, domestic and international markets have become saturated with suppliers, manufacturers and intermediaries, all striving to be the first ones to make it to the end of the chain. Until only a few years ago, marketing itself was a highly criticized concept. For many, it was nothing more than a waste of resources that could be spent better if they were invested in manufacturing and building of sales force. This sales-oriented approach makes businesses push products and services into the market, rather than creating a pull that customers would not be able to resist. Marketing manages to do just that. With creatively designed strategies and concepts, the promotional campaigns of goods and services slowly began to play an important role in the overall mission of a business, achieving sales targets as well as creating much needed awareness. Thus, the role of physical marketing became clearer and more defined. Today, a successful business cannot even think about producing goods and services without having an authentic marketing strategy in place. Therefore, marketing is a business’s ammunition in front of a market that is full of choosy, precise and curious customers. It helps the business to answer questions, solve problems, present solutions and build long-term associations with the customers. A similar concept that has surfaced in the 21st century is that of online marketing. The move to a virtual world has been the result of the saturation of the market that has been mentioned here. With more and more businesses looking to attract customers, the internet became an efficient way to reach a large audience and to market one product or service on different vehicles and through different perspectives. Online marketing soon turned out to be a massive industry that today deals in billions of dollars’ worth of advertisements. However, just like many struggled to understand the importance and need for physical marketing strategies, adopting online marketing as a norm has not been easy for many oldschool businesses. Since they have been functioning just fine with a brick and mortar presence, for them, online marketing might seem quite unnecessary. How can this perception be changed? What is it that marketers can do to create and increase awareness about online marketing? The answer is quite simple. Ask an average individual about online marketing; they may stop for a second or two to collect their thoughts before giving an answer. The concept of online marketing is not quite clear to people yet. While millions of businesses worldwide have jumped on the bandwagon of online marketing, not to mention the early adopters of this practice, a million others are still contemplating whether it is worth adopting."
     },
     {
         "_id": "cd2b53655737cc4077542baea9f8f75d",
@@ -282,15 +231,7 @@
         },
         "title": "Diploma in Search Engine Optimization",
         "thumbnail_url": "https://coursepedia.ng/wp-content/uploads/2020/11/Search-Engine-Optimization-870x440.jpg",
-        "introduction": "The course you are about to take deals with the lesson on search engine optimization and everything related to understanding it – from how search engines do what they do, to how you can use them to promote a business or website and incorporate SEO into a marketing strategy.
-
-        We will start with looking at what search engine optimization is in a nutshell, what it has to offer to the webmaster of a website and what are the common SEO techniques being used.
-        
-        People are the key to the internet, as the internet is supported by the development of content from the global community and is used by the same community in the form of search engines. And that is why we will be looking at how people use search engines.
-        
-        Further on in this course, we will be explain to you how to make a website that is search engine friendly and makes the most out of SEO and SEM techniques. This includes understanding what search engines love and respond well to, how search engine algorithms work and how they create rankings. We will be talking about tools used for link building,keyword research, and analysis tools, to equip you with the skills necessary for analyzing a website and optimizing in relation to the most effective keywords that generate traffic and respond well to what is trending on the internet.
-        
-        Lastly, we will be offering a conclusion that sums up the lessons on search engine optimization, search engine marketing, the tools discussed and what the world of SEO has to offer to any business, organization or individual wishing to make a greater online presence."
+        "introduction": "The course you are about to take deals with the lesson on search engine optimization and everything related to understanding it – from how search engines do what they do, to how you can use them to promote a business or website and incorporate SEO into a marketing strategy. We will start with looking at what search engine optimization is in a nutshell, what it has to offer to the webmaster of a website and what are the common SEO techniques being used. People are the key to the internet, as the internet is supported by the development of content from the global community and is used by the same community in the form of search engines. And that is why we will be looking at how people use search engines. Further on in this course, we will be explain to you how to make a website that is search engine friendly and makes the most out of SEO and SEM techniques. This includes understanding what search engines love and respond well to, how search engine algorithms work and how they create rankings. We will be talking about tools used for link building,keyword research, and analysis tools, to equip you with the skills necessary for analyzing a website and optimizing in relation to the most effective keywords that generate traffic and respond well to what is trending on the internet. Lastly, we will be offering a conclusion that sums up the lessons on search engine optimization, search engine marketing, the tools discussed and what the world of SEO has to offer to any business, organization or individual wishing to make a greater online presence."
     },
     {
         "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
@@ -300,7 +241,7 @@
             "enrolled": 7766,
             "total_view": 54255,
             "study_mode": "Online",
-            "price": 0000
+            "price": 0
         },
         "rating": {
             "number": 4.5,
@@ -326,9 +267,7 @@
         },
         "title": "Email Marketing",
         "thumbnail_url": "https://coursepedia.ng/wp-content/uploads/2020/07/Email-Marketing-870x440.jpg",
-        "introduction": "Over the past two decades, a lot has changed. The technology has advanced so far, that it has opened up completely new horizons. In terms of business, this means more opportunities and more ways to reach consumers.
-
-        Online marketing is now a part of our reality, always included in the business plan, as a medium of improving business and realizing goals. Its potential has been proven so many times, that it is slowly taking over, leaving traditional marketing techniques far behind. It is estimated that almost 40% of the world’s population use the internet, and with this in mind, it is natural to think of the internet as a great place for advertising your business."
+        "introduction": "Over the past two decades, a lot has changed. The technology has advanced so far, that it has opened up completely new horizons. In terms of business, this means more opportunities and more ways to reach consumers. Online marketing is now a part of our reality, always included in the business plan, as a medium of improving business and realizing goals. Its potential has been proven so many times, that it is slowly taking over, leaving traditional marketing techniques far behind. It is estimated that almost 40% of the world’s population use the internet, and with this in mind, it is natural to think of the internet as a great place for advertising your business."
     },
     {
         "_id": "30af81e91ab3eafc0bcae0de62f55d5c",
@@ -346,17 +285,7 @@
         },
         "title": "Affiliate Marketing",
         "thumbnail_url": "https://coursepedia.ng/wp-content/uploads/2020/07/Affliate-Marketing-870x440.jpg",
-        "introduction": "The online world has tremendously affected our everyday lives that sometimes it might even seem impossible to imagine our lives without technology and online communication. This trend naturally transferred to the business world, where the new technologies opened up so many exciting opportunities.
-
-        The businesses out there were no longer confined by location or restricted by infrastructure. Once everyone hurled to the big cities because these have been places enabling your business to grow.
-        
-        Businesses needed more qualified employees, they wanted exposure to more customers and opportunities to network and create partnerships. All of these required your business having headquarters in a big city, but this is no longer needed. All you need is a computer and the internet connection, and you are ready to take your business anywhere you want.
-        
-        Speaking of the business world, this term has so long been used in relation to big corporations and management teams, but nowadays, we see more and more one-man businesses that grow and expand their reach globally.
-        
-        There is a significant number of businesses completely set up and run by a single person.  Or they start as such, only to expand as their influence online begins to increase. Entrepreneurship has become a popular business model which helped so many wonderful business ideas come to life.
-        
-        The possibilities on the market are numerous, especially if we have in mind the online market. There are so many different ways and strategies to set up and grow a business, depending on the niche, resources, knowledge, etc. What is safe to say is that these opportunities are a part of the online world, and new opportunities keep popping up. One of those is affiliate marketing."
+        "introduction": "The online world has tremendously affected our everyday lives that sometimes it might even seem impossible to imagine our lives without technology and online communication. This trend naturally transferred to the business world, where the new technologies opened up so many exciting opportunities. The businesses out there were no longer confined by location or restricted by infrastructure. Once everyone hurled to the big cities because these have been places enabling your business to grow. Businesses needed more qualified employees, they wanted exposure to more customers and opportunities to network and create partnerships. All of these required your business having headquarters in a big city, but this is no longer needed. All you need is a computer and the internet connection, and you are ready to take your business anywhere you want. Speaking of the business world, this term has so long been used in relation to big corporations and management teams, but nowadays, we see more and more one-man businesses that grow and expand their reach globally. There is a significant number of businesses completely set up and run by a single person.  Or they start as such, only to expand as their influence online begins to increase. Entrepreneurship has become a popular business model which helped so many wonderful business ideas come to life. The possibilities on the market are numerous, especially if we have in mind the online market. There are so many different ways and strategies to set up and grow a business, depending on the niche, resources, knowledge, etc. What is safe to say is that these opportunities are a part of the online world, and new opportunities keep popping up. One of those is affiliate marketing."
     },
     {
         "_id": "df11ff9feefc37613cc3a4486ce02151",
@@ -374,13 +303,7 @@
         },
         "title": "Diploma In Service Management",
         "thumbnail_url": "https://coursepedia.ng/wp-content/uploads/2019/07/Diploma-in-Services-Management-870x440.jpg",
-        "introduction": "Service is an intangible product that brings utility or value to the customer. Service Management is thus a managerial discipline focused on a customer and a service. Service management is multidisciplinary field which is related to many other management fields.
-
-        Service management systems are large modular systems which incorporate all or most aspects of a service-oriented organization. To have a service-management mindset, an organization must understand the level of process maturity that is required to become a service-oriented organization.
-        
-        According to Techopedia, the service management organization can be the entire organization or a special subset of that organization, the most common of which is the IT organization or department. That is why service management is often associated with IT service management, but the latter is only a subset of the former.
-        
-        Service management is applicable to any organization such as food, manufacturing and even health care but the core idea remains the same—to provide a central system for planning, development and delivery of services either to the organization itself or to third parties."
+        "introduction": "Service is an intangible product that brings utility or value to the customer. Service Management is thus a managerial discipline focused on a customer and a service. Service management is multidisciplinary field which is related to many other management fields. Service management systems are large modular systems which incorporate all or most aspects of a service-oriented organization. To have a service-management mindset, an organization must understand the level of process maturity that is required to become a service-oriented organization. According to Techopedia, the service management organization can be the entire organization or a special subset of that organization, the most common of which is the IT organization or department. That is why service management is often associated with IT service management, but the latter is only a subset of the former. Service management is applicable to any organization such as food, manufacturing and even health care but the core idea remains the same—to provide a central system for planning, development and delivery of services either to the organization itself or to third parties."
     },
     {
         "_id": "919db97c34e0778b387dd40cdfa08130",
@@ -398,17 +321,7 @@
         },
         "title": "Social media Marketing for Small Business",
         "thumbnail_url": "https://coursepedia.ng/wp-content/uploads/2019/07/SOCIAL-MEDIA-MARKETING-870x440.jpg",
-        "introduction": "Social media can be a great way for small business owners to connect with prospects and customers. If done right, it can make sales skyrocket. Some entrepreneurs have even built an entire business on a social media platform.
-
-        According to Hootsuite, getting started with social media can feel overwhelming for small businesses. But you don’t need to rack up millions of followers or have a slick brand campaign to make effective use of these budget-friendly tools.
-        
-        Social media is one of the best ways to connect with fans and potential customers. If you don’t have a presence on the main networks, you’re missing out on an audience that’s ready and willing to connect with your brand.
-        
-        According to Wordstrem, it is well known that people are spending more and more time on their phones, and a lot of that time is spent on social media apps.
-        
-        We also know that social media users regularly interact with companies they are interested in or already do business with. So not only is social media free, but your customers and prospects are already there waiting to hear from you.
-        
-        If you fail to have an effective social media strategy, it can be detrimental to your small business. While you may not think your lack of a social media presence is having an impact on you today, it will eventually catch up with you down the road. So don’t wait until it’s too late to get started. You have to keep up with the latest social media trends and apply them to your small business."
+        "introduction": "Social media can be a great way for small business owners to connect with prospects and customers. If done right, it can make sales skyrocket. Some entrepreneurs have even built an entire business on a social media platform. According to Hootsuite, getting started with social media can feel overwhelming for small businesses. But you don’t need to rack up millions of followers or have a slick brand campaign to make effective use of these budget-friendly tools. Social media is one of the best ways to connect with fans and potential customers. If you don’t have a presence on the main networks, you’re missing out on an audience that’s ready and willing to connect with your brand. According to Wordstrem, it is well known that people are spending more and more time on their phones, and a lot of that time is spent on social media apps. We also know that social media users regularly interact with companies they are interested in or already do business with. So not only is social media free, but your customers and prospects are already there waiting to hear from you. If you fail to have an effective social media strategy, it can be detrimental to your small business. While you may not think your lack of a social media presence is having an impact on you today, it will eventually catch up with you down the road. So don’t wait until it’s too late to get started. You have to keep up with the latest social media trends and apply them to your small business."
     },
     {
         "_id": "374df11ae3d9b8b9ce21f4dc53f59b85",
@@ -418,7 +331,7 @@
             "enrolled": 3545,
             "total_view": 36866,
             "study_mode": "Online",
-            "price": 0000
+            "price": 0
         },
         "rating": {
             "number": 5.0,
@@ -444,15 +357,7 @@
         },
         "title": "Diploma In Telemarketing",
         "thumbnail_url": "https://coursepedia.ng/wp-content/uploads/2019/07/Diploma-in-Telemarketing-870x440.jpg",
-        "introduction": "Telemarketing is a marketing conundrum that the telephone offers the most direct method of getting through to potential customers, but also has the greatest capacity to irritate them.
-
-        And with the volume of telemarketing increasing year upon year, it stands to reason that your own telemarketing campaign must be highly targeted and professional to get results.
-        
-        Failure in one or both of these areas can result in wasted resources and damaged business reputations.
-        
-        Telemarketing can form an integral part of a sales and marketing campaign, either as a tool for gathering the data that will be the foundation for your direct marketing approaches, as a follow up to other forms of direct marketing, or as an up-front weapon for identifying your best sales prospects.
-        
-        The most common functions of business to business outbound telemarketing include; Improving marketing data, Telecleaning your existing data, Lead generation, Event planning, Direct mail follow up, Point of sale promotion, Company profiling  and Customer contact."
+        "introduction": "Telemarketing is a marketing conundrum that the telephone offers the most direct method of getting through to potential customers, but also has the greatest capacity to irritate them. And with the volume of telemarketing increasing year upon year, it stands to reason that your own telemarketing campaign must be highly targeted and professional to get results. Failure in one or both of these areas can result in wasted resources and damaged business reputations. Telemarketing can form an integral part of a sales and marketing campaign, either as a tool for gathering the data that will be the foundation for your direct marketing approaches, as a follow up to other forms of direct marketing, or as an up-front weapon for identifying your best sales prospects. The most common functions of business to business outbound telemarketing include; Improving marketing data, Telecleaning your existing data, Lead generation, Event planning, Direct mail follow up, Point of sale promotion, Company profiling  and Customer contact."
     },
     {
         "_id": "be44c843d61859cc0b87cae85c55f9db",
@@ -470,15 +375,7 @@
         },
         "title": "Diploma In Public Relations",
         "thumbnail_url": "https://coursepedia.ng/wp-content/uploads/2019/07/Public-relation-870x440.jpg",
-        "introduction": "Every organisation, no matter how large or small, ultimately depends on its reputation for survival and success.
-
-        Customers, suppliers, employees, investors, journalists and regulators can have a powerful impact. They all have an opinion about the organisations they come into contact with – whether good or bad, right or wrong. These perceptions will drive their decisions about whether they want to work with, shop with and support these organisations.
-        
-        In today’s competitive market, reputation can be a company’s biggest asset – the thing that makes you stand out from the crowd and gives you a competitive edge. Effective PR can help manage reputation by communicating and building good relationships with all organisation stakeholders.
-        
-        Public Relations professionals help a business or individual cultivate a positive reputation with the public through various unpaid or earned communications, including traditional media, social media, and in-person engagements. They also help clients defend their reputation during a crisis that threatens their credibility.
-        
-        You can find public relations in virtually every industry, government, and nonprofit organization. Its broad scope makes it impossible to understand without some attention to the taxonomy of this diverse and dynamic profession. Learning the lexicon of public relations in this course will help you master the discipline and help your study move quicker in subsequent reading."
+        "introduction": "Every organisation, no matter how large or small, ultimately depends on its reputation for survival and success. Customers, suppliers, employees, investors, journalists and regulators can have a powerful impact. They all have an opinion about the organisations they come into contact with – whether good or bad, right or wrong. These perceptions will drive their decisions about whether they want to work with, shop with and support these organisations. In today’s competitive market, reputation can be a company’s biggest asset – the thing that makes you stand out from the crowd and gives you a competitive edge. Effective PR can help manage reputation by communicating and building good relationships with all organisation stakeholders. Public Relations professionals help a business or individual cultivate a positive reputation with the public through various unpaid or earned communications, including traditional media, social media, and in-person engagements. They also help clients defend their reputation during a crisis that threatens their credibility. You can find public relations in virtually every industry, government, and nonprofit organization. Its broad scope makes it impossible to understand without some attention to the taxonomy of this diverse and dynamic profession. Learning the lexicon of public relations in this course will help you master the discipline and help your study move quicker in subsequent reading."
     },
     {
         "_id": "1b03149c50f1bec662062d930bf46489",
@@ -532,25 +429,7 @@
         },
         "title": "Diploma in Business Communication Skills",
         "thumbnail_url": "https://coursepedia.ng/wp-content/uploads/2019/07/DIPLOMA-IN-BUSINESS-MANAGEMENT-ENTREPRENEURSHIP-1024x576-870x440.jpg",
-        "introduction": "Effective business communication is a two-way process of listening and speaking, and it’s of foremost importance in all phases of daily business life at your middle market company.
-
-        Ask one hundred employees whether they’re good communicators, and one hundred will say yes. In reality, though, all of us need to improve our communication skills.
-        
-        Communication is key in every aspect of life, but it’s especially crucial in the workplace. Whether you’re just starting out in business or are further along in your career curve, there are specific business communication skills necessary for success.
-        
-        Good relations among members of a business are critical for success. Good communication skills are an important element for the development of good relationships.
-        
-        Poor communications starve a relationship while good communications nourish it. This is true regardless of whether you are a member of a committee looking at starting a business or a member of a team operating a business.
-        
-        So, improving communication skills is important for success. But this doesn’t just happen. Both the receiver and the sender must work at developing verbal and listening skills.
-        
-        From public speaking and body language to active listening and negotiating, there are many aspects to communicating effectively in the business realm.
-        
-        The way a person communicates in business can lose or seal a deal, influence others to increase their work performance, and ensure that your message is delivered effectively and that your intended audience comprehends your intent.
-        
-        Mistakes in body language, tone, or failing to show that you are open to negotiation or compromise can shut down your recipient’s willingness to hear your message. By improving your business communication skills, you can ensure that you are effective at your job, presentation, or position.
-        
-        This course will expose you to the business communication skills and “soft skills” needed that will help you work smarter."
+        "introduction": "Effective business communication is a two-way process of listening and speaking, and it’s of foremost importance in all phases of daily business life at your middle market company. Ask one hundred employees whether they’re good communicators, and one hundred will say yes. In reality, though, all of us need to improve our communication skills. Communication is key in every aspect of life, but it’s especially crucial in the workplace. Whether you’re just starting out in business or are further along in your career curve, there are specific business communication skills necessary for success. Good relations among members of a business are critical for success. Good communication skills are an important element for the development of good relationships. Poor communications starve a relationship while good communications nourish it. This is true regardless of whether you are a member of a committee looking at starting a business or a member of a team operating a business. So, improving communication skills is important for success. But this doesn’t just happen. Both the receiver and the sender must work at developing verbal and listening skills. From public speaking and body language to active listening and negotiating, there are many aspects to communicating effectively in the business realm. The way a person communicates in business can lose or seal a deal, influence others to increase their work performance, and ensure that your message is delivered effectively and that your intended audience comprehends your intent. Mistakes in body language, tone, or failing to show that you are open to negotiation or compromise can shut down your recipient’s willingness to hear your message. By improving your business communication skills, you can ensure that you are effective at your job, presentation, or position. This course will expose you to the business communication skills and “soft skills” needed that will help you work smarter."
     },
     {
         "_id": "61f9ce168f7b15aadecb1d1fc80c72f0",
@@ -578,7 +457,7 @@
             "enrolled": 4561,
             "total_view": 78645,
             "study_mode": "Online",
-            "price": 400
+            "price": 0
         },
         "rating": {
             "number": 5.0,
@@ -586,8 +465,6 @@
         },
         "title": "Becoming A Product Manager",
         "thumbnail_url": "https://coursepedia.ng/wp-content/uploads/2019/07/BECOMING-A-PROJECT-MANAGER-1-870x440.jpg",
-        "introduction": "Product management is an important organizational role. Product managers are typically found at companies that are building products or technology for customer or internal use. This role evolved from the brand manager position that is often found at consumer packaged goods companies.
-
-        The product manager is responsible for the strategy, roadmap, and feature definition for that product or product line. The position may also include marketing, forecasting, and profit and loss (P&L) responsibilities."
+        "introduction": "Product management is an important organizational role. Product managers are typically found at companies that are building products or technology for customer or internal use. This role evolved from the brand manager position that is often found at consumer packaged goods companies. The product manager is responsible for the strategy, roadmap, and feature definition for that product or product line. The position may also include marketing, forecasting, and profit and loss (P&L) responsibilities."
     }
 ]

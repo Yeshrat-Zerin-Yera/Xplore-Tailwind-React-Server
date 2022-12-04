@@ -12,9 +12,9 @@ app.get('/', (req, res) => {
     res.send('Xplore API Running');
 });
 
-app.get('/categories', (req, res) => {
-    res.send(categories);
-});
+// app.get('/categories', (req, res) => {
+//     res.send(categories);
+// });
 
 // app.get('/categories/:id', (req, res) => {
 //     const id = req.params.id;
