@@ -1,0 +1,34 @@
+[
+    {
+        "id": "01",
+        "name": "Free Courses"
+    },
+    {
+        "id": "02",
+        "name": "Premium Courses"
+    },
+    {
+        "id": "03",
+        "name": "Data & Analytics"
+    },
+    {
+        "id": "04",
+        "name": "E-Commerce"
+    },
+    {
+        "id": "05",
+        "name": "Digital Marketing"
+    },
+    {
+        "id": "06",
+        "name": "Marketing"
+    },
+    {
+        "id": "07",
+        "name": "Sales Management"
+    },
+    {
+        "id": "08",
+        "name": "Soft Skills"
+    }
+]
