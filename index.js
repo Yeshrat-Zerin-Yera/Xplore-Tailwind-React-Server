@@ -26,6 +26,14 @@ app.get('/categories/:id', (req, res) => {
         const categoryCourses = courses.filter(course => course?.others_info?.price !== 0);
         res.send(categoryCourses);
     }
+    else if (id === '07') {
+        const categoryCourses = courses.filter(course => course?.rating?.badge === 'New');
+        res.send(categoryCourses);
+    }
+    else if (id === '08') {
+        const categoryCourses = courses.filter(course => course?.rating?.badge === 'Special');
+        res.send(categoryCourses);
+    }
     else {
         const categoryCourses = courses.filter(course => course?.category_id === id);
         res.send(categoryCourses);
