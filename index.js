@@ -18,8 +18,18 @@ app.get('/categories', (req, res) => {
 
 app.get('/categories/:id', (req, res) => {
     const id = req.params.id;
-    const categoryCourses = courses.filter(course => course.category_id === id);
-    res.send(categoryCourses);
+    if (id === '01') {
+        const categoryCourses = courses.filter(course => course?.others_info?.price === 0);
+        res.send(categoryCourses);
+    }
+    else if (id === '02') {
+        const categoryCourses = courses.filter(course => course?.others_info?.price !== 0);
+        res.send(categoryCourses);
+    }
+    else {
+        const categoryCourses = courses.filter(course => course?.category_id === id);
+        res.send(categoryCourses);
+    }
 });
 
 app.get('/courses', (req, res) => {
@@ -28,7 +38,7 @@ app.get('/courses', (req, res) => {
 
 app.get('/courses/:id', (req, res) => {
     const id = req.params.id;
-    const selectedCourse = courses.find(course => course._id === id);
+    const selectedCourse = courses.find(course => course?._id === id);
     res.send(selectedCourse);
 });
 
