@@ -34,5 +34,5 @@ app.get('/courses/:id', (req, res) => {
 
 
 app.listen(port, () => {
-    console.log('Xplore Running On Port: ', port);
+    console.log('Xplore Running On Port: ',);
 });
