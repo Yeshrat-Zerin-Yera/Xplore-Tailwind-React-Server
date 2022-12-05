@@ -1,0 +1,60 @@
+[
+    {
+        "_id": "kl26e0e4587c404fbd15261f11c2vgft",
+        "question": "What is cors?",
+        "title": "Cross-Origin Resource Sharing (CORS)",
+        "thumbnail_url": "https://th.bing.com/th/id/R.6714d48a435a022b56e1b45810d65a7a?rik=cmUXWXDJCf9NRQ&pid=ImgRaw&r=0",
+        "desceiption": "Cross-Origin Resource Sharing (CORS) is an HTTP-header based mechanism that allows a server to indicate any origins (domain, scheme, or port) other than its own from which a browser should permit loading resources. CORS also relies on a mechanism by which browsers make a 'preflight' request to the server hosting the cross-origin resource, in order to check that the server will permit the actual request. In that preflight, the browser sends headers that indicate the HTTP method and headers that will be used in the actual request. An example of a cross-origin request: the front-end JavaScript code served from https://domain-a.com uses XMLHttpRequest to make a request for https://domain-b.com/data.json. For security reasons, browsers restrict cross-origin HTTP requests initiated from scripts. For example, XMLHttpRequest and the Fetch API follow the same-origin policy. This means that a web application using those APIs can only request resources from the same origin the application was loaded from unless the response from other origins includes the right CORS headers.",
+        "author": {
+            "name": "Lynda Dane",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://cdn.onlinewebfonts.com/svg/img_24787.png"
+        }
+    },
+    {
+        "_id": "jcct0e58a455tfgbd15261f11cydejg",
+        "question": "Why are you using firebase? What other options do you have to implement authentication?",
+        "title": "Google Firebase and Why Should You Use It",
+        "sub_title_one": "What is the alternative to Firebase?",
+        "sub_title_one_list": [
+            "AWS",
+            "Heroku",
+            "Azure",
+            "Parse Server",
+            "Hoodie",
+            "Back4App",
+            "CloudKit"
+        ],
+        "thumbnail_url": "https://th.bing.com/th/id/OIP.iXRvktgX48igy6k8KzrZHQHaDt?pid=ImgDet&rs=1",
+        "desceiption": "Google Firebase offers many features that pitch it as the go-to backend development tool for web and mobile apps. It reduces development workload and time. And it's a perfect prototyping tool. Firebase is simple, lightweight, friendly, and industrially recognized. Tired of writing boring code for your backend, or can't even write it at all? Try Google Firebase. So what's Google Firebase, and why should you build your app around it? Founded in 2011 as a chat API and acquired by Google in 2014, Google Firebase is a platform that now offers active backend as a service (BaaS) for building dynamic web and mobile apps. Indeed, Firebase is a less technical and time-saving alternative to writing full-fledged backend code for dynamic apps. You might also want to consider leveraging this tool if you eventually wish to host and manage your app in the cloud. Being serverless, Firebase removes the need to worry about the technicalities of cloud server configuration. As a Google Cloud service, it also gives you access to other Google products and features, like Google Drive and Sheets. For instance, you can import dummy data from Google Sheets and use it temporarily to serve your app. With Firebase, it's pretty simple to connect and use built-in third-party authentication providers, including Google, Facebook, Twitter, among others. And if you want to use a pre-built authentication UI, you have it at your disposal as well.",
+        "author": {
+            "name": "Amber Green",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://th.bing.com/th/id/OIP.SxuyKL-Ca-_bXp1TC4c4-gHaF3?pid=ImgDet&rs=1"
+        }
+    },
+    {
+        "_id": "hrdte0e58a5cvhkfyjd15261f11c2hfty",
+        "question": "How does the private route work?",
+        "title": "Private Route",
+        "thumbnail_url": "https://freeeducationweb.com/wp-content/uploads/2020/10/5379198832082944.png",
+        "desceiption": "React Router is one of the most important components of React ecosystem. PrivateRoute component is the blueprint for all private routes in the application. If the user is logged in, go on and display the component in question; otherwise, redirect the user to sign-in page. Additionally, we can define the logic of isLogin utility function separately in utils folder. Private Routes The private route component is similar to the public route, the only change is that redirect URL and authenticate condition. If the user is not authenticated he will be redirected to the login page and the user can only access the authenticated routes If he is authenticated (Logged in). Private Routes vary based on the apps, For example, Dashboard, User Profile, App Settings, Home, etc. In simple words, these routes can be accessed only after login. The constraints for public and private routes are that public routes should not be accessed after login and private routes should not be accessible before login.",
+        "author": {
+            "name": "Binh Tran",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://th.bing.com/th/id/OIP.xo-BCC1ZKFpLL65D93eHcgHaGe?pid=ImgDet&rs=1"
+        }
+    },
+    {
+        "_id": "kbglfkhhvjvvk4fbd15261f1645kfj",
+        "question": "What is Node? How does Node work?",
+        "title": "Node.js",
+        "thumbnail_url": "https://th.bing.com/th/id/R.76e9fc5320b531ff1176e36c67e333d5?rik=O2eAELRyddf0kA&pid=ImgRaw&r=0",
+        "desceiption": "Node.js is an open-source server environment. Node.js is cross-platform and runs on Windows, Linux, Unix, and macOS. Node.js is a back-end JavaScript runtime environment. Node provides access to several important global objects for use with Node program files. When writing a file that will run in a Node environment, these variables will be accessible in the global scope of your file. module is an object referring to the functionality that will be exported from a file. In Node, each file is treated as a module. Node has a many built-in modules to aid in interactions with the command line, the computer file system, and the Internet. Node.JS works and runs on the VB JavaScript engine. An essential thing to comprehend is that Node isn’t a web server. In this article will give a simple method to comprehend the outline of how Node.JS works? along with its functions, what makes Node.JS extraordinary and clarify that it’s something other than server-side JavaScript. A great deal of the perplexity for novices to Node is misjudging explicitly what it is. Node.JS works exceptionally, and it is an extraordinary instrument if you need a type of live correspondence on a site. It is capable of rapidly conveying information to/from an internet browser.",
+        "author": {
+            "name": "Jakub Kozak",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://th.bing.com/th/id/OIP.REaa7VlbBneeVv5GSL88mAHaHa?pid=ImgDet&rs=1"
+        }
+    }
+]

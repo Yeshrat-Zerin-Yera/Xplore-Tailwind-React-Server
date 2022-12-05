@@ -28,7 +28,7 @@
             "price": 250
         },
         "rating": {
-            "number": 5.0,
+            "number": 3.5,
             "badge": "Special"
         },
         "title": "Sales Forecasting",
@@ -46,7 +46,7 @@
             "price": 0
         },
         "rating": {
-            "number": 4.8,
+            "number": 4.0,
             "badge": "New"
         },
         "title": "Strategic Business Growth",
@@ -100,7 +100,7 @@
             "price": 600
         },
         "rating": {
-            "number": 4.5,
+            "number": 2.5,
             "badge": "Special"
         },
         "title": "Developing an Effective Business Model",
@@ -172,7 +172,7 @@
             "price": 0
         },
         "rating": {
-            "number": 4.5,
+            "number": 4.0,
             "badge": "Special"
         },
         "title": "Building an Online Business",
@@ -190,7 +190,7 @@
             "price": 246
         },
         "rating": {
-            "number": 4.2,
+            "number": 5.0,
             "badge": "New"
         },
         "title": "How to Start Online Business",
@@ -262,7 +262,7 @@
             "price": 300
         },
         "rating": {
-            "number": 4.5,
+            "number": 3.5,
             "badge": "New"
         },
         "title": "Email Marketing",
