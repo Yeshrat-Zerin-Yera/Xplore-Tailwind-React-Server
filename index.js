@@ -73,7 +73,7 @@ app.get('/blogs', (req, res) => {
 });
 
 // Blogs ID
-app.get('/checkout/:id', (req, res) => {
+app.get('/blogs/:id', (req, res) => {
     const id = req.params.id;
     const selectedBlog = blogs.find(blog => blog?._id === id);
     res.send(selectedBlog);
